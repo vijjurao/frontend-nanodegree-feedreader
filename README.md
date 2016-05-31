@@ -1,6 +1,7 @@
 ##Feed Reader Testing
+Run application by opening the index.html page
 
-Run application with this link here
+(alternate) Run application with this link here
 
 http://vijjurao.github.io/frontend-nanodegree-feedreader/
 
